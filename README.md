@@ -14,6 +14,3 @@
 
 <h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgreenlee26&show_icons=true&locale=en&layout=compact" alt="jgreenlee26" /></p>
-
-<h3>Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgreenlee26" alt="jgreenlee26" /></a> </p>
