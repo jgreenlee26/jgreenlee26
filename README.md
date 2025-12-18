@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [LTK](https://company.shopltk.com/en/company)
 
-- 🌱 I’m currently learning **Python, TypeScript and applied algorithms**
+- 🌱 I’m currently learning **Python, React, TypeScript and applied algorithms**
 
-- 💬 Ask me about **Vue, GoLang, Python**
+- 💬 Ask me about **React, Vue, GoLang, Python**
 
 - 📫 How to reach me **jgreenlee24@gmail.com**
 
